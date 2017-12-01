@@ -1,0 +1,36 @@
+{
+   "wallpapers": [
+      {
+         "author": "supermanosbros",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/8bit_beach_sunny01.jpg",
+         "name": "Sunny Beach 01"
+      },
+      {
+         "author": "supermanosbros",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/8bit_beach_sunny02.jpg",
+         "name": "Sunny Beach 02"
+      },
+      {
+         "author": "supermanosbros",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/8bit_beach_sunny01.jpg",
+         "name":"03"
+      },
+      {
+         "author": "supermanosbros",
+         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
+         "name": "Forest"
+      },
+      {
+         "author": "Tom Wellington",
+         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
+         "name": "Tree Farm",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
+      },
+      {
+         "author":"Tom Wellington",
+         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
+         "name":"Tree Tops",
+         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+      }
+   ]
+}
