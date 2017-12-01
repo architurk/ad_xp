@@ -1,24 +1,40 @@
 {
    "wallpapers": [
       {
-		"name": "Sunny 8bit Beach 01",
-		"author": "supermanosbros",
-		"url": "https://raw.githubusercontent.com/architurk/arcade_daze_xp/master/8bit_beach_sunny01.jpg",
-	},
-	{
-		"name": "Sunny 8bit Beach 02",
-		"author": "supermanosbros",
-       		"url": "https://raw.githubusercontent.com/architurk/arcade_daze_xp/master/8bit_beach_sunny02.jpg",
-        },
-	{
-		"name": "Super Mario Desktop 01",
-		"author": "caveman",
-		"url": "https://raw.githubusercontent.com/architurk/arcade_daze_xp/master/super_mario_desktop01.jpg",
-        },
-	{
-		"name": "Super Mario Desktop 02",
-		"author": "caveman",
-		"url": "https://raw.githubusercontent.com/architurk/arcade_daze_xp/master/super_mario_desktop02.jpg",
-	}
+         "author": "Tom Wellington",
+         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
+         "name": "East Branch",
+         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+      },
+      {
+         "author": "Tom Wellington",
+         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+         "name": "Heads Up",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      },
+      {
+         "author": "Tom Wellington",
+         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
+         "name":" Flamingos",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+      },
+      {
+         "author": "Tom Wellington",
+         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
+         "name": "Forest",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
+      },
+      {
+         "author": "Tom Wellington",
+         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
+         "name": "Tree Farm",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
+      },
+      {
+         "author":"Tom Wellington",
+         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
+         "name":"Tree Tops",
+         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+      }
    ]
 }
