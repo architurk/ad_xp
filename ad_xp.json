@@ -1,9 +1,15 @@
 {
-   "wallpapers": [
+   "wallpapers": [      
+      {
+         "author": "architurk",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_space_invaders_wallpaper01.jpg",
+         "name": "ADXP Space Invaders 01"
+      },
+ 
       {
          "author": "architurk",
          "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_drive_and_jump_wallpaper01.jpg",
-         "name": "adxp drive and jump wallpaper01"
+         "name": "ADXP Drive and Jump 01"
       },
       {
          "author": "supermanosbros",
