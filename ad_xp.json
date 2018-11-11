@@ -1,99 +1,79 @@
 {
-  "Wallpapers": [
-    {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-      "collections": "featured,landscapes,people",
-      "downloadable": false
-    },
-    {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
-    },
-    {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-      "name": "ShotC",
-      "dimensions": "1280x720",
-      "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
-    },
-    {
-      "name": "Wallsplash 1",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city"
-    },
-    {
-      "name": "Wallsplash 2",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
-    },
-    {
-      "name": "Wallsplash 3",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,food,people"
-    },
-    {
-      "name": "Wallsplash 4",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people,city"
-    },
-    {
-      "name": "Wallsplash 5",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes"
-    },
-    {
-      "name": "Wallsplash 6",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,people"
-    },
-    {
-      "name": "Wallsplash 7",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people"
-    },
-    {
-      "name": "Wallsplash 8",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "food"
-    }
-  ]
+   "wallpapers": [      
+      {
+         "author": "architurk",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_super_mario_wallpaper01.jpg",
+         "name": "ADXP Super Mario 01"
+      },
+      {
+         "author": "architurk",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_super_mario_wallpaper02.jpg",
+         "name": "ADXP super Mario 02"
+      },
+      {
+         "author": "architurk",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_space_invaders_wallpaper01.jpg",
+         "name": "ADXP Space Invaders 01"
+      },
+      {
+         "author": "architurk",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_space_invaders_wallpaper02.jpg",
+         "name": "ADXP Space Invaders 02"
+      },
+      {
+         "author": "architurk",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_drive_and_jump_wallpaper01.jpg",
+         "name": "ADXP Drive and Jump 01"
+      },
+      {
+         "author": "supermanosbros",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/8bit_beach_sunny01.jpg",
+         "name": "Sunny Beach 01"
+      },
+      {
+         "author": "supermanosbros",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/8bit_beach_sunny02.jpg",
+         "name": "Sunny Beach 02"
+      },
+      {
+         "author": "caveman",
+         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop01.jpg",
+         "name":"Super Mario Desktop 01"
+      },
+      {
+         "author": "caveman",
+         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop02.jpg",
+         "name": "Super Mario Desktop 02"
+      },
+      {
+         "author": "caveman",
+         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop03.jpg",
+         "name": "Super Mario Desktop 03"
+      },
+      {
+         "author": "caveman",
+         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop04.jpg",
+         "name": "Super Mario Desktop 04"
+      },
+      {
+         "author": "caveman",
+         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop05.jpg",
+         "name": "Super Mario Desktop 05"
+      },
+      {
+         "author":"Super Mario Bros",
+         "url":"https://github.com/architurk/ad_xp/raw/master/super_mario_wallpaper01.jpg",
+         "name":"Super Mario Wallpaper 01"
+      },
+      {
+         "author":"Super Mario Bros",
+         "url":"https://github.com/architurk/ad_xp/raw/master/super_mario_wallpaper02.jpg",
+         "name":"Super Mario Wallpaper 02"
+      },
+      {
+         "author":"Super Mario Bros",
+         "url":"https://github.com/architurk/ad_xp/raw/master/super_mario_wallpaper03.jpg",
+         "name":"Super Mario Wallpaper 03"
+      }
+   ]
 }
